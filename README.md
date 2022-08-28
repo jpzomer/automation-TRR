@@ -9,7 +9,7 @@ The video abstract explaining the project can be accessed clicking by in the fol
 
 The developed solution is presented in the following image:
 
-<img src="circuit_board.png?raw=true" width="50%" height="auto">
+<img src="circuit_board.png?raw=true" width="60%" height="auto">
 
 with:
 
