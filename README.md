@@ -17,3 +17,5 @@ with:
 - B - relay logic safety circuit
 - C - measurement relays
 - D - unloading check circuit
+
+Further graphical information about the circuits developed can be found on folder "circuits".
