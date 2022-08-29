@@ -23,4 +23,4 @@ being:
 - C - measurement relays
 - D - unloading check circuit
 
-Further graphical information about the circuits developed can be found on folder "circuits". The circuits and the printed circuit board are available. The application developed in LabVIEW to control the system, as shown on the video abstract, can be found under the name "App.vi".
+Further graphical information about the circuits developed can be found on folder "circuits". The circuits and the printed circuit board are available.
